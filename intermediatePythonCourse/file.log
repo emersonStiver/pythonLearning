@@ -1,0 +1,25 @@
+__main__ - ERROR - this is an error
+__main__ - ERROR - this is an error
+2023-01-05 11:36:34,047 - __main__ - ERROR - this is an error
+2023-01-05 11:37:46,849 - __main__ - ERROR - this is an error
+2023-01-05 11:38:06,667 - __main__ - ERROR - this is an error
+2023-01-05 11:40:14,884 - __main__ - WARNING - this is a warning
+2023-01-05 11:40:14,884 - __main__ - ERROR - this is an error
+2023-01-05 11:40:57,150 - __main__ - WARNING - this is a warning
+2023-01-05 11:40:57,151 - __main__ - ERROR - this is an error
+2023-01-05 11:41:28,874 - __main__ - ERROR - this is an error
+2023-01-05 11:43:26,518 - __main__ - ERROR - this is an error
+2023-01-05 11:43:30,671 - __main__ - ERROR - this is an error
+2023-01-05 11:43:42,382 - __main__ - ERROR - this is an error
+2023-01-05 11:44:06,520 - __main__ - WARNING - this is a warning
+2023-01-05 11:44:06,521 - __main__ - ERROR - this is an error
+2023-01-05 11:48:59,415 - __main__ - ERROR - this is an error
+2023-01-05 14:24:14,473 - __main__ - ERROR - this is an error
+2023-01-05 14:43:46,337 - __main__ - INFO - this is info
+2023-01-05 14:43:46,338 - __main__ - WARNING - this is a warning
+2023-01-05 14:43:46,338 - __main__ - ERROR - this is an error
+2023-01-05 14:44:16,403 - __main__ - DEBUG - this is a debug message
+2023-01-05 14:44:16,403 - __main__ - INFO - this is info
+2023-01-05 14:44:16,403 - __main__ - WARNING - this is a warning
+2023-01-05 14:44:16,403 - __main__ - ERROR - this is an error
+2023-01-05 14:44:31,634 - __main__ - ERROR - this is an error
